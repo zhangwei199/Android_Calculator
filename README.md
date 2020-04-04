@@ -13,16 +13,16 @@
 >主要功能有:
 >>实现加减乘除运算、连续运算、判断计算是否符合逻辑，<br>
 自动将运算记录和当前时间存入数组，在历史记录页面显示，<br>
-invent实现页面跳转，用bundle 传递数据，<br>
+intent实现页面跳转，并用bundle传递数据，<br>
 SimpleAdapter适配器适配列表的图片和文本的显示，<br>
 列表控件长按事件，长按一条记录可存入收藏夹。<br>
 
 > 想了解更多详情请观看本项目其他文档
 ## 运行效果图：
-![image](https://github.com/zhangwei199/zw/raw/master/preview/1.png)
-![image](https://github.com/zhangwei199/zw/raw/master/preview/2.png)
-![image](https://github.com/zhangwei199/zw/raw/master/preview/3.png)
-![image](https://github.com/zhangwei199/zw/raw/master/preview/4.png)
-![image](https://github.com/zhangwei199/zw/raw/master/preview/5.png)
-![image](https://github.com/zhangwei199/zw/raw/master/preview/6.png)
+![image](https://github.com/zhangwei199/Android_Calculator/raw/master/preview/1.png)
+![image](https://github.com/zhangwei199/Android_Calculator/raw/master/preview/2.png)
+![image](https://github.com/zhangwei199/Android_Calculator/raw/master/preview/3.png)
+![image](https://github.com/zhangwei199/Android_Calculator/raw/master/preview/4.png)
+![image](https://github.com/zhangwei199/Android_Calculator/raw/master/preview/5.png)
+![image](https://github.com/zhangwei199/Android_Calculator/raw/master/preview/6.png)
 
